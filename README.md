@@ -1,5 +1,11 @@
 ### Hi there, I'm Anay Joshi👋
 
+- 🔭 I’m currently working on improving my Problem Solving Skills.
+- 🌱 I’m currently learning Django.
+- 👯 I’m looking to collaborate on Youtube.
+- 🤔 I’m looking for help with Competitive Programming.
+- 💬 Ask me about Python or any tech related stuff.
+
 
 ![GitHub Follow](https://img.shields.io/github/followers/anayjoshi1608.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/anayjoshi1608?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
@@ -35,19 +41,7 @@
 </details>
 
 
-<!--
-<details close>
-<summary>:zap: Languages</summary>
-  <img src="https://wakatime.com/share/@397b1319-dbea-49b0-a916-53258ecb0152/36746a04-b26a-4fd1-8186-cb0ebc11042f.svg" width="400px">
-</details>
 
 
-- 🔭 I’m currently working on improving my Problem Solving Skills.
-- 🌱 I’m currently learning Django.
-- 👯 I’m looking to collaborate on Youtube
-- 🤔 I’m looking for help with Competitive Programming.
-- 💬 Ask me about Python or any tech related stuff.
-- 📫 How to reach me: Twitter = @CodersLife_
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Unknown ;)
+
 
