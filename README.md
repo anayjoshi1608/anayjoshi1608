@@ -6,9 +6,6 @@
 <a href="https://twitter.com/CodersLife_">
   <img align="left" alt="Anay Joshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/anayanupjoshi/)
-[![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:anayjoshi168@gmail.com)
-
 ![](https://visitor-badge.glitch.me/badge?page_id=anayjoshi1608.anayjoshi1608)
 
 <br />
@@ -21,6 +18,11 @@
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with Competitive Programming.
 - 💬 Ask me about **Software Development and Python related stuff**.
+
+📩 How to reach me 
+
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/anayanupjoshi/)
+[![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:anayjoshi168@gmail.com)
 
 
 ⚙ Tools and Technologies
@@ -48,8 +50,6 @@
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anayjoshi1608&layout=compact" width="400px">
 </details>  -->
 
-
-**Anay's github stats**
 
 <br/>
 
