@@ -1,10 +1,23 @@
+<img src="https://github.com/rahul799/rahul799/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
+
+<br/>
+<a href="https://twitter.com/CodersLife_">
+  <img align="left" alt="Anay Joshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/anayanupjoshi">
+  <img align="left" alt="Anay's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=anayjoshi1608.anayjoshi1608)
+
+<br />
 ### Hi there, I'm Anay Joshi👋
 
 - 🔭 I’m currently working on improving my Problem Solving Skills.
 - 🌱 I’m currently learning Django.
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with Competitive Programming.
-- 💬 Ask me about Python or any tech related stuff.
+- 💬 Ask me about **Software Development and Python related stuff***.
 
 
 ![GitHub Follow](https://img.shields.io/github/followers/anayjoshi1608.svg?style=social&label=Follow)
@@ -33,12 +46,17 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
 ![Latex](https://img.shields.io/badge/-Latex-333333?style=flat&logo=latex)
 
-
+<!--
 <details close>
 <summary>:zap: GitHub Statistics</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=anayjoshi1608&show_icons=true&theme=nord" width="400px">
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anayjoshi1608&layout=compact" width="400px">
-</details>
+</details>  -->
+
+
+**Anay's github stats**
+ <img src="https://github-readme-stats.vercel.app/api?username=anayjoshi1608&show_icons=true&theme=nord" width="400px">
+ <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anayjoshi1608&layout=compact" width="400px">
 
 
 
