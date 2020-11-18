@@ -6,6 +6,10 @@
 <a href="https://twitter.com/CodersLife_">
   <img align="left" alt="Anay Joshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a href="https://www.linkedin.com/in/anayanupjoshi">
+  <img align="left" alt="Anay's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=anayjoshi1608.anayjoshi1608)
 
 <br />
