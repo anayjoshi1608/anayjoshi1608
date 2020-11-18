@@ -1,5 +1,7 @@
 <img src="https://github.com/rahul799/rahul799/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
 
+**Hi there 👋 I'm Anay Joshi..**
+
 <br/>
 <a href="https://twitter.com/CodersLife_">
   <img align="left" alt="Anay Joshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -11,13 +13,12 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=anayjoshi1608.anayjoshi1608)
 
 <br />
-### Hi there, I'm Anay Joshi👋
 
 - 🔭 I’m currently working on improving my Problem Solving Skills.
 - 🌱 I’m currently learning Django.
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with Competitive Programming.
-- 💬 Ask me about **Software Development and Python related stuff***.
+- 💬 Ask me about **Software Development and Python related stuff**.
 
 
 ![GitHub Follow](https://img.shields.io/github/followers/anayjoshi1608.svg?style=social&label=Follow)
@@ -55,10 +56,13 @@
 
 
 **Anay's github stats**
+
+<br/>
+
  <img src="https://github-readme-stats.vercel.app/api?username=anayjoshi1608&show_icons=true&theme=nord" width="400px">
  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anayjoshi1608&layout=compact" width="400px">
 
-
+<br/>
 
 
 
